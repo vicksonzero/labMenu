@@ -1,0 +1,20 @@
+{
+    "name": "labMenu",
+    "version": "0.0.0",
+    "description": "displays a neat index page for your folder-based mini project set",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "node testrunner.js"
+    },
+    "keywords": [
+        "index"
+    ],
+    "author": "Dickson Chui (vicksonzero)",
+    "repository":"https://github.com/vicksonzero/labMenu",
+    "license": "MIT",
+    "dependencies": {
+        "open": "0.0.5",
+        "DOMBuilder": "^2.1.6"
+    }
+}
