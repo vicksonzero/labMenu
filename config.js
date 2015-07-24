@@ -18,7 +18,7 @@ module.exports = (function() {
 		labVersion: config.labVersion,
 		created: makeTimestamp(new Date()),
 		ignorePath:{
-			"_portableLab": true,
+			"labMenu": true,
 			"node_modules": true
 		}
 	}
