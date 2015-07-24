@@ -21,7 +21,7 @@ use at your own risk.
 
 ## How to customize
 1. edit `config.js` for folder names.  
-    NOTE: I did not play with paths, so changing `config.js` may cause troubles such as deleting your whole folder
+    NOTE: I did not do enough tests with paths, so changing `config.js` may cause troubles such as deleting your whole folder
 2. edit meta.json after first run to ignore certain folders
 3. create a file called `labIgnore.txt` in certain folders to ignore them before first run
 4. edit `folderName/.labEntry/project.json` to add descriptions and banners
